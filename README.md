@@ -1,1 +1,1 @@
-# payment-project
+# projectstripe
